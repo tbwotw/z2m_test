@@ -17,6 +17,7 @@
   "arch": [
     "aarch64",
     "amd64"
+    "armv7"
   ],
   "boot": "auto",
   "init": false,
