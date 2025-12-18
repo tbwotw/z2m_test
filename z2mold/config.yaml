@@ -4,6 +4,7 @@ slug: "z2mold"
 description: "Ancienne version pour iHost"
 arch:
   - aarch64
-  - amd64
   - armhf
   - armv7
+machine:
+  - ihost
