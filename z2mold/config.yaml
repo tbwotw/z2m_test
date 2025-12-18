@@ -1,0 +1,7 @@
+name: "Zigbee2MQTT Old 2.6"
+version: "2.6.0-1"
+slug: "z2mold"
+description: "Version 2.6 pour iHost armv7"
+arch:
+  - armv7
+  - aarch64
