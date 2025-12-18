@@ -1,7 +1,6 @@
-name: "Zigbee2MQTT Old 2.6"
-version: "2.6.0-1"
+name: "Zigbee2MQTT Old"
+version: "1.40.1" # C'est la version de 2025
 slug: "z2mold"
-description: "Version stable 32-bit pour iHost"
 arch:
   - armv7
-image: "koenkk/zigbee2mqtt:1.30.1-armv7"
+image: "koenkk/zigbee2mqtt:1.40.1-armv7"
