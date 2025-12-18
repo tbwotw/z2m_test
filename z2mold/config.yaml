@@ -1,8 +1,0 @@
-name: "Zigbee2MQTT Old"
-version: "2.7.0-1"
-slug: "z2mold"
-description: "Forçage local iHost"
-arch:
-  - armv7
-  - aarch64
-# Ne PAS mettre de ligne "image" ici
