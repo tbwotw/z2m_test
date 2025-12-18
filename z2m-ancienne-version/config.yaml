@@ -1,6 +1,0 @@
-name: "Zigbee2MQTT (Ancienne)"
-version: "2.7.0-1" # Remplacez par votre version
-slug: "z2m_ancienne"
-description: "Version spécifique pour mon iHost"
-arch: ["aarch64", "amd64","armv7"]
-image: "koenkk/zigbee2mqtt" # HA cherchera l'image officielle correspondante
